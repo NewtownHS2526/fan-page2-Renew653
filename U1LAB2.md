@@ -20,7 +20,7 @@ Your task is to add styling to this website. You will access elements of the pag
     }
     ```
 
-3. Head over to the `index.html` page and notice that there are 4 sections to the page each wrapped in `div` elements with different ID names: `id="header"`, `id="about"`, `id="achievements"`, and `id="other"`. Let's add some color to the header's background. We'll reference it by ID, and set a custom color to the background. In the `style.css` add the following ruleset to change the background color:
+3. Head over to the `index.html` page and notice that the wrapped in `div` elre are 4 sections to the page eachements with different ID names: `id="header"`, `id="about"`, `id="achievements"`, and `id="other"`. Let's add some color to the header's background. We'll reference it by ID, and set a custom color to the background. In the `style.css` add the following ruleset to change the background color:
     ```css
     #header {
         background-color: #f1faee;
